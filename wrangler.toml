@@ -1,0 +1,9 @@
+name = "zeus-panel"
+main = "Source.js"
+compatibility_date = "2026-10-18"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "zeus-db"
+database_id = "08abec66-3a70-4223-a559-947b7e8fdbea"
