@@ -6,4 +6,4 @@ workers_dev = true
 [[d1_databases]]
 binding = "DB"
 database_name = "zeus-db"
-database_id = "08abec66-3a70-4223-a559-947b7e8fdbea"
+database_id = "ceb1b4e0-ba12-471f-8deb-343818fe14ac"
